@@ -214,5 +214,6 @@ __marimo__/
 # ZIP
 *.zip
 
-
+# Ambiente python3.12
+.ambiente/
 
